@@ -1,0 +1,4 @@
+1. open main_export_xml and run it.
+2. run render_all.sh
+3. The pngs (with some logs) are in the images folder.
+4. The folder named ‘scened’ is disposable and contains several stuff.

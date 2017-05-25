@@ -1,0 +1,4 @@
+2017-05-23 16:51:55 INFO  main [mtsutil.cpp:232] Mitsuba version 0.5.0 (Mac OS, 64 bit), Copyright (c) 2014 Wenzel Jakob
+2017-05-23 16:51:55 INFO  main [mtsutil.cpp:363] Loading utility "tonemap" ..
+2017-05-23 16:51:55 INFO  main [Tonemap] Loading image "/Users/optas/Desktop/mitsuba_obj_wrapper/scenes/1f75847dbddcd34afac76eomorfa.exr" ..
+2017-05-23 16:51:55 INFO  main [Tonemap] Writing tonemapped image to "/Users/optas/Desktop/mitsuba_obj_wrapper/images/1f75847dbddcd34afac76eomorfa.png" ..
