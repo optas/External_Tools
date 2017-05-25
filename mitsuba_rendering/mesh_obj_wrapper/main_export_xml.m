@@ -39,7 +39,6 @@ copyfile('shared/matpreview.serialized', scenedir);
 Rx = [1, 0, 0; 0, 0, -1; 0, 1, 0];  % If meshes are reasonable wrt. x-y-z coordinates make Rx the identity!
 
 
-
 % append any rotation around the (new) z, according to the params file
 R = [cos(zrot), -sin(zrot), 0; sin(zrot), cos(zrot), 0; 0, 0, 1];
 R = R*Rx;
