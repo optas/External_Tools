@@ -1,3 +1,6 @@
 [submodule "YellowFin"]
 	path = YellowFin
 	url = git@github.com:JianGoForIt/YellowFin.git
+[submodule "binvox-rw-py"]
+	path = binvox-rw-py
+	url = git@github.com:dimatura/binvox-rw-py.git
