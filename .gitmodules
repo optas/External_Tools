@@ -1,0 +1,3 @@
+[submodule "YellowFin"]
+	path = YellowFin
+	url = git@github.com:JianGoForIt/YellowFin.git
